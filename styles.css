@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    transition: background-color 0.5s;
+}
+
+#container {
+    max-width: 600px;
+    margin: auto;
+}
+
+.timer {
+    margin: 10px 0;
+}
+
+.green {
+    background-color: green;
+    color: white;
+}
+
+.yellow {
+    background-color: yellow;
+    color: black;
+}
+
+.red {
+    background-color: red;
+    color: white;
+}
